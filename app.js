@@ -11,7 +11,7 @@ function start() {
     html += '<div class="col">';
     html += '<div class="col text-center mt-5">';
     html += '<h1 class="startTitle">John Ieng</h1>';
-    html += '<button class="btn btn-primary btn-lg">';
+    html += '<button class="btn btn-primary btn-lg lmButton">';
     html += '<a href="about.html" class="text-decoration-none text-white">Learn More</a></button>';
     html += '</div></div></div></div>';
     
