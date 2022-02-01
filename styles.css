@@ -1,7 +1,9 @@
 body {
     background-color: #84C0C6;
     color: white;
+    /* min-height: 1500px; */
 }
+
 
 #mainNavbar {
     font-size: 1rem;
@@ -48,7 +50,7 @@ body {
 
 .parallax {
     /* The image used */
-    background-image: url("images/bg1.jpeg");
+    background-image: url("images/backdrop.jpeg");
     /* Full height */
     height: 100%;
     /* Create the parallax scrolling effect */
@@ -111,3 +113,4 @@ body {
     padding-right: 0rem;
     overflow: hidden;
   } */
+
